@@ -21,6 +21,8 @@ python3 -m streamlit run Rent_vs_Buy.py
 ```
 
 ## Setup
+```bash
 python -m venv venv
 source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 pip install -r requirements.txt
+```
