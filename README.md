@@ -18,6 +18,7 @@ Launch the app locally:
 
 ```bash
 python3 -m streamlit run Rent_vs_Buy.py
+```
 
 ## Setup
 python -m venv venv
